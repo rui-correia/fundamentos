@@ -1,5 +1,6 @@
 package fundamentos;
-//IMPRIMIR LINHA
+//IMPRIMIR LINHA abc
+
 
 public class _1_print_texto {
     /* acesse o atalho de auto completar com CTRL+ ESPA�O
